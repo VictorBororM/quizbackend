@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soapenv:Envelope
+	xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" >
+	<soapenv:Header/>
+	<soapenv:Body>
+		<das-request>
+			<country>GT</country>
+			<operation_product>WU</operation_product>
+			<product>ALL</product>
+			<countries>
+				<type>countrys</type>
+			</countries>
+			<states>
+				<type>states</type>
+				<pais>{ "pais" : [{ "codigo" : "GT", "nombre" : "Guatemala" },{ "codigo" : "MX", "nombre" : "Mexico" },{ "codigo" : "SV", "nombre" : "Salvador" }, { "codigo" : "HN", "nombre" : "Honduras" }, { "codigo" : "NI", "nombre" : "Nicaragua" } , { "codigo" : "CR", "nombre" : "Costa Rica" }, { "codigo" : "US", "nombre" : "Estados Unidos" }] }</pais>
+			</states>
+			<type>cities</type>
+			<node>
+				<patherid></patherid>
+				<pathervalue></pathervalue>
+			</node>
+		</das-request>
+	</soapenv:Body>
+</soapenv:Envelope>

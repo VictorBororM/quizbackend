@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soapenv:Envelope
+	xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" >
+	<soapenv:Header/>
+	<soapenv:Body>
+		<das-request>
+			<country>GT</country>
+			<operation_product>WU</operation_product>
+			<product>ALL</product>
+			<countries>
+				<type>countrys</type>
+			</countries>
+			<states>
+				<type>states</type>
+				<tipo_relacion>{ 	"tipo_relacion": [	{	"codigo": 14,	"nombre": "ABUELO(A)"	},	{	"codigo": 20,	"nombre": "AMISTAD"	},	{	"codigo": 8,	"nombre": "COMPAÑERO DE TRABAJO"	},	{	"codigo": 13,	"nombre": "CUÑADO(A)"	},	{	"codigo": 5,	"nombre": "ESPOSO(A)"	},	{	"codigo": 17,	"nombre": "EX ESPOSO(A)"	},	{	"codigo": 11,	"nombre": "HERMANASTRO(A)"	},	{	"codigo": 2,	"nombre": "HERMANO(A)"	},	{	"codigo": 1,	"nombre": "HIJO(A)"	},	{	"codigo": 18,	"nombre": "JEFE(A)"	},	{	"codigo": 10,	"nombre": "MADRASTRA"	},	{	"codigo": 23,	"nombre": "NIETO(A)"	},	{	"codigo": 22,	"nombre": "NOVIO(A)"	},	{	"codigo": 9,	"nombre": "PADRASTRO"	},	{	"codigo": 3,	"nombre": "PADRES"	},	{	"codigo": 16,	"nombre": "PADRINO(A)"	},	{	"codigo": 21,	"nombre": "PRIMO(A)"	},	{	"codigo": 12,	"nombre": "SOBRINO(A)"	},	{	"codigo": 19,	"nombre": "SOCIO(A)"	},	{	"codigo": 6,	"nombre": "SUBALTERNO(A)"	},	{	"codigo": 15,	"nombre": "SUEGRO(A)"	},	{	"codigo": 4,	"nombre": "TIO(A)"	},	{	"codigo": 24,	"nombre": "YERNO(A)"	} 	] }</tipo_relacion>
+			</states>
+			<type>cities</type>
+			<node>
+				<patherid></patherid>
+				<pathervalue></pathervalue>
+			</node>
+		</das-request>
+	</soapenv:Body>
+</soapenv:Envelope>

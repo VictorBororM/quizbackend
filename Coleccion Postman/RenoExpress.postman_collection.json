@@ -1,0 +1,87 @@
+{
+	"info": {
+		"_postman_id": "0e0640ae-83e8-458f-aed3-108f4992b522",
+		"name": "RenoExpress",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GetProductos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:50942/api/GetProductos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "50942",
+					"path": [
+						"api",
+						"GetProductos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "IngresaCompra",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\t\"nombreVenta\": \"Prueba 1\",\r\n\t\"observacionCompra\": \"Prueba de venta\",\r\n\t\"fechaVenta\": \"04-05-2021\",\r\n\t\"usuarioID\": \"2\",\r\n\t\"detalleCompra\": [\r\n\t\t{\r\n            \"prodID\" : 1,\r\n\t\t\t\"cantidadDte\": 2,\r\n\t\t\t\"precioVentaDte\": 100\r\n\t\t},\r\n        {\r\n            \"prodID\" : 2,\r\n\t\t\t\"cantidadDte\": 3,\r\n\t\t\t\"precioVentaDte\": 150\r\n\t\t}\r\n\t]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:50942/api/IngresarCompra",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "50942",
+					"path": [
+						"api",
+						"IngresarCompra"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "IngresaVenta",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\t\"nombreVenta\": \"Prueba de compra\",\r\n\t\"observacionCompra\": \"Prueba de compra de producto\",\r\n\t\"fechaVenta\": \"04-05-2021\",\r\n\t\"usuarioID\": 2,\r\n\t\"detalleCompra\": [\r\n\t\t{\r\n\t\t\t\"prodID\": 1,\r\n\t\t\t\"cantidadDte\": 20,\r\n\t\t\t\"precioVentaDte\": 200.0\r\n\t\t}\r\n\t]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:50942/api/IngresarVenta",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "50942",
+					"path": [
+						"api",
+						"IngresarVenta"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

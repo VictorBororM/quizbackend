@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" ><soapenv:Header/><soapenv:Body><save-search-fcc-request><customer_id>@customer_id</customer_id><country>@country</country><guarda>@guarda</guarda><json_fcc>@json_fcc</json_fcc></save-search-fcc-request></soapenv:Body></soapenv:Envelope>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soapenv:Envelope
+	xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" >
+	<soapenv:Header/>
+	<soapenv:Body>
+		<das-request>
+			<country>GT</country>
+			<operation_product>WU</operation_product>
+			<product>ALL</product>
+			<countries>
+				<type>countrys</type>
+			</countries>
+			<states>
+				<type>states</type>
+				<node>
+					<estados>{ "estados": [ { "codigo": "1", "nombre": "Aguascalientes" }, { "codigo": "2", "nombre": "Baja California" }, { "codigo": "3", "nombre": "Baja California Sur" }, { "codigo": "4", "nombre": "Campeche" }, { "codigo": "5", "nombre": "Coahuila de Zaragoza" }, { "codigo": "6", "nombre": "Colima" }, { "codigo": "7", "nombre": "Chiapas" }, { "codigo": "8", "nombre": "Chihuahua" }, { "codigo": "9", "nombre": "Distrito Federal" }, { "codigo": "10", "nombre": "Durango" }, { "codigo": "11", "nombre": "Guanajuato" }, { "codigo": "12", "nombre": "Guerrero" }, { "codigo": "13", "nombre": "Hidalgo" }, { "codigo": "14", "nombre": "Jalisco" }, { "codigo": "15", "nombre": "México" }, { "codigo": "16", "nombre": "Michoacán de Ocampo" }, { "codigo": "17", "nombre": "Morelos" }, { "codigo": "18", "nombre": "Nayarit" }, { "codigo": "19", "nombre": "Nuevo León" }, { "codigo": "20", "nombre": "Oaxaca" }, { "codigo": "21", "nombre": "Puebla" }, { "codigo": "22", "nombre": "Querétaro" }, { "codigo": "23", "nombre": "Quintana Roo" }, { "codigo": "24", "nombre": "San Luis Potosí" }, { "codigo": "25", "nombre": "Sinaloa" }, { "codigo": "26", "nombre": "Sonora" }, { "codigo": "27", "nombre": "Tabasco" }, { "codigo": "28", "nombre": "Tamaulipas" }, { "codigo": "29", "nombre": "Tlaxcala" }, { "codigo": "30", "nombre": "Veracruz de Ignacio de la Llave" }, { "codigo": "31", "nombre": "Yucatán" }, { "codigo": "32", "nombre": "Zacatecas" }, { "codigo": "NY", "nombre": "New York" } ] }</estados>
+				</node>
+			</states>
+			<type>cities</type>
+			<node>
+				<patherid></patherid>
+				<pathervalue></pathervalue>
+			</node>
+		</das-request>
+	</soapenv:Body>
+</soapenv:Envelope>

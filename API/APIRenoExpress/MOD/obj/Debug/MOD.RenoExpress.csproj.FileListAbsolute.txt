@@ -1,0 +1,10 @@
+C:\PruebaForza\API\APIRenoExpress\MOD\bin\Debug\MOD.RenoExpress.dll.config
+C:\PruebaForza\API\APIRenoExpress\MOD\bin\Debug\MOD.RenoExpress.dll
+C:\PruebaForza\API\APIRenoExpress\MOD\bin\Debug\MOD.RenoExpress.pdb
+C:\PruebaForza\API\APIRenoExpress\MOD\bin\Debug\Newtonsoft.Json.dll
+C:\PruebaForza\API\APIRenoExpress\MOD\bin\Debug\Newtonsoft.Json.xml
+C:\PruebaForza\API\APIRenoExpress\MOD\obj\Debug\MOD.RenoExpress.csproj.CoreCompileInputs.cache
+C:\PruebaForza\API\APIRenoExpress\MOD\obj\Debug\MOD.RenoExpress.csproj.CopyComplete
+C:\PruebaForza\API\APIRenoExpress\MOD\obj\Debug\MOD.RenoExpress.dll
+C:\PruebaForza\API\APIRenoExpress\MOD\obj\Debug\MOD.RenoExpress.pdb
+C:\PruebaForza\API\APIRenoExpress\MOD\obj\Debug\MOD.RenoExpress.csprojAssemblyReference.cache

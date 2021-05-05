@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soapenv:Envelope
+	xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" >
+	<soapenv:Header/>
+	<soapenv:Body>
+		<das-request>
+			<country>GT</country>
+			<operation_product>WU</operation_product>
+			<product>ALL</product>
+			<countries>
+				<type>countrys</type>
+			</countries>
+			<states>
+				<type>states</type>
+				<origen_fondo>{ 	"origenes": [	{	"codigo": 11,	"nombre": "ADMINISTRACION FONDOS TERCEROS"	},	{	"codigo": 10,	"nombre": "AHORRO DEL REMITENTE"	},	{	"codigo": 14,	"nombre": "AHORROS"	},	{	"codigo": 16,	"nombre": "AYUDA ECONOMICA"	},	{	"codigo": 13,	"nombre": "DONACIONES"	},	{	"codigo": 18,	"nombre": "EMPRESA DONDE LABORA"	},	{	"codigo": 4,	"nombre": "GANANCIAS DEL NEGOCIO"	},	{	"codigo": 5,	"nombre": "HERENCIA"	},	{	"codigo": 3,	"nombre": "HONORARIOS"	},	{	"codigo": 17,	"nombre": "NEGOCIOS DE TRANSPORTES"	},	{	"codigo": 12,	"nombre": "PENSION"	},	{	"codigo": 2,	"nombre": "PRESTAMOS NO BANCARIO"	},	{	"codigo": 6,	"nombre": "RENTAS O ALQUILERES"	},	{	"codigo": 1,	"nombre": "SALARIO DEL REMITENTE"	},	{	"codigo": 15,	"nombre": "SOPORTE FAMILIAR"	},	{	"codigo": 9,	"nombre": "VENTA DE BIENES RAICES"	},	{	"codigo": 7,	"nombre": "VENTA DE JOYAS"	},	{	"codigo": 8,	"nombre": "VENTA DE VEHICULOS"	} 	] }</origen_fondo>
+			</states>
+			<type>cities</type>
+			<node>
+				<patherid></patherid>
+				<pathervalue></pathervalue>
+			</node>
+		</das-request>
+	</soapenv:Body>
+</soapenv:Envelope>

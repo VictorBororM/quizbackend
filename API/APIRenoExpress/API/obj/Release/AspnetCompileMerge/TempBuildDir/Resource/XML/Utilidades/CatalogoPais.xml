@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" ><soapenv:Header/><soapenv:Body><das-request><country>@country</country><operation_product_id>@operation</operation_product_id><product>@product</product><countries><type>@type</type></countries>				</das-request></soapenv:Body></soapenv:Envelope>

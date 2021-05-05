@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" >
+	<soapenv:Body>
+		<transaction-history-reply>
+			<transactions>
+				<transaction>
+					<transaction_type>ENVIO</transaction_type>
+					<currency>USD</currency>
+					<amount>456</amount>
+					<transaction_date>2019-12-09</transaction_date>
+					<pin>E13212</pin>
+				</transaction>				
+				<transaction>
+					<transaction_type>PAGO</transaction_type>
+					<currency>USD</currency>
+					<amount>56</amount>
+					<transaction_date>2019-12-11</transaction_date>
+					<pin>P52103</pin>
+				</transaction>				
+			</transactions>
+			<result>								
+				<transfer_response_code>000</transfer_response_code>
+				<transfer_response_text>OK</transfer_response_text>
+				<message/>
+			</result>			
+		</transaction-history-reply>				
+	</soapenv:Body>
+</soapenv:Envelope>

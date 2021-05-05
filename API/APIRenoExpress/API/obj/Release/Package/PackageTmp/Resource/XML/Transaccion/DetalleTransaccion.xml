@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" ><soapenv:Header/><soapenv:Body><transaction-detail-request><country>@country</country><operation_product_id>@product</operation_product_id><pin>@pin</pin><customer_id>@customer_id</customer_id></transaction-detail-request></soapenv:Body></soapenv:Envelope>

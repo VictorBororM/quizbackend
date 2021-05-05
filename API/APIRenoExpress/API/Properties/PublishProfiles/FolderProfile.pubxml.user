@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Simple y Rápido Remesadores\Publicado</_PublishTargetUrl>
+    <History>True|2021-04-21T16:27:32.8343147Z;True|2021-04-21T10:16:41.4161595-06:00;True|2021-04-19T12:40:39.9522985-06:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>03/24/2021 10:16:59</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>03/24/2021 10:17:03</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>03/24/2021 10:17:03</publishTime>
+    </File>
+    <File Include="bin/API.SYR.com.gt.dll">
+      <publishTime>02/21/2020 11:49:35</publishTime>
+    </File>
+    <File Include="bin/API.SYR.com.gt.pdb">
+      <publishTime>02/21/2020 11:49:35</publishTime>
+    </File>
+    <File Include="bin/API.RenoExpress.Controllers.dll">
+      <publishTime>04/28/2021 17:42:16</publishTime>
+    </File>
+    <File Include="bin/API.RenoExpress.Controllers.pdb">
+      <publishTime>04/28/2021 17:42:16</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>03/24/2021 10:16:59</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>04/28/2021 17:42:25</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>04/28/2021 17:42:25</publishTime>
+    </File>
+    <File Include="bin/BLL.RenoExpress.dll">
+      <publishTime>04/28/2021 17:42:10</publishTime>
+    </File>
+    <File Include="bin/BLL.RenoExpress.pdb">
+      <publishTime>04/28/2021 17:42:10</publishTime>
+    </File>
+    <File Include="bin/Bond.Attributes.dll">
+      <publishTime>03/24/2021 12:40:39</publishTime>
+    </File>
+    <File Include="bin/Bond.Attributes.pdb">
+      <publishTime>03/24/2021 12:40:39</publishTime>
+    </File>
+    <File Include="bin/Bond.dll">
+      <publishTime>03/24/2021 12:40:39</publishTime>
+    </File>
+    <File Include="bin/Bond.IO.dll">
+      <publishTime>03/24/2021 12:40:39</publishTime>
+    </File>
+    <File Include="bin/Bond.IO.pdb">
+      <publishTime>03/24/2021 12:40:39</publishTime>
+    </File>
+    <File Include="bin/Bond.pdb">
+      <publishTime>03/24/2021 12:40:39</publishTime>
+    </File>
+    <File Include="bin/Bond.Reflection.dll">
+      <publishTime>03/24/2021 12:40:39</publishTime>
+    </File>
+    <File Include="bin/Bond.Reflection.pdb">
+      <publishTime>03/24/2021 12:40:39</publishTime>
+    </File>
+    <File Include="bin/DAL.RenoExpress.dll">
+      <publishTime>04/28/2021 17:42:10</publishTime>
+    </File>
+    <File Include="bin/DAL.RenoExpress.dll.config">
+      <publishTime>03/24/2021 12:39:29</publishTime>
+    </File>
+    <File Include="bin/DAL.RenoExpress.pdb">
+      <publishTime>04/28/2021 17:42:10</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.AspNet.Identity.Owin.resources.dll">
+      <publishTime>03/24/2021 10:18:17</publishTime>
+    </File>
+    <File Include="bin/es/System.Net.Http.Formatting.resources.dll">
+      <publishTime>03/24/2021 10:33:47</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Helpers.resources.dll">
+      <publishTime>03/24/2021 10:33:58</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Http.Owin.resources.dll">
+      <publishTime>03/24/2021 10:33:53</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Http.resources.dll">
+      <publishTime>03/24/2021 10:33:50</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Http.WebHost.resources.dll">
+      <publishTime>03/24/2021 10:33:54</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Mvc.resources.dll">
+      <publishTime>03/24/2021 10:18:24</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Optimization.resources.dll">
+      <publishTime>03/24/2021 10:18:27</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Razor.resources.dll">
+      <publishTime>03/24/2021 10:18:27</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.WebPages.Deployment.resources.dll">
+      <publishTime>03/24/2021 10:33:58</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.WebPages.Razor.resources.dll">
+      <publishTime>03/24/2021 10:33:58</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.WebPages.resources.dll">
+      <publishTime>03/24/2021 10:33:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>03/24/2021 10:18:01</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>03/24/2021 10:18:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>03/24/2021 10:18:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>03/24/2021 10:18:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>03/24/2021 10:18:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>03/24/2021 10:18:07</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>03/24/2021 10:17:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>03/24/2021 10:18:12</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>03/24/2021 10:18:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>03/24/2021 10:34:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Cors.dll">
+      <publishTime>03/24/2021 10:35:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>03/24/2021 10:35:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>03/24/2021 10:35:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>03/24/2021 10:35:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>03/24/2021 10:35:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>03/24/2021 10:35:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>03/24/2021 10:35:23</publishTime>
+    </File>
+    <File Include="bin/MOD.RenoExpress.dll">
+      <publishTime>04/19/2021 09:36:36</publishTime>
+    </File>
+    <File Include="bin/MOD.RenoExpress.dll.config">
+      <publishTime>03/24/2021 12:40:30</publishTime>
+    </File>
+    <File Include="bin/MOD.RenoExpress.pdb">
+      <publishTime>04/19/2021 09:36:36</publishTime>
+    </File>
+    <File Include="bin/MODDB.RenoExpress.dll">
+      <publishTime>04/19/2021 09:36:36</publishTime>
+    </File>
+    <File Include="bin/MODDB.RenoExpress.dll.config">
+      <publishTime>03/24/2021 12:39:35</publishTime>
+    </File>
+    <File Include="bin/MODDB.RenoExpress.pdb">
+      <publishTime>04/19/2021 09:36:36</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>03/24/2021 12:39:39</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/24/2021 12:39:06</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>03/24/2021 12:39:11</publishTime>
+    </File>
+    <File Include="bin/Resource/XML/CustomerSearch.xml">
+      <publishTime>02/05/2020 23:20:52</publishTime>
+    </File>
+    <File Include="bin/Resource/XML/Registro.xml">
+      <publishTime>02/06/2020 11:09:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>03/24/2021 10:35:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>03/24/2021 10:35:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>03/24/2021 10:35:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>03/24/2021 10:35:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>03/24/2021 10:35:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>03/24/2021 10:35:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.Process.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.DriveInfo.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.AccessControl.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Claims.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Principal.Windows.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Thread.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>03/24/2021 10:35:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>03/24/2021 10:35:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>03/24/2021 10:35:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>03/24/2021 10:35:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>03/24/2021 10:35:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>03/24/2021 10:35:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>03/24/2021 10:35:21</publishTime>
+    </File>
+    <File Include="bin/System.IO.FileSystem.dll">
+      <publishTime>03/24/2021 14:35:54</publishTime>
+    </File>
+    <File Include="bin/System.IO.FileSystem.Primitives.dll">
+      <publishTime>03/24/2021 14:36:00</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>03/24/2021 10:33:47</publishTime>
+    </File>
+    <File Include="bin/System.ValueTuple.dll">
+      <publishTime>03/24/2021 14:36:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>03/24/2021 10:18:11</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>03/24/2021 10:33:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>03/24/2021 10:33:50</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Owin.dll">
+      <publishTime>03/24/2021 10:33:53</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>03/24/2021 10:33:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>03/24/2021 10:18:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>03/24/2021 10:18:27</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>03/24/2021 10:18:27</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>03/24/2021 10:33:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>03/24/2021 10:33:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>03/24/2021 10:33:58</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>03/24/2021 12:39:14</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>03/24/2021 10:17:03</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>04/28/2021 17:42:18</publishTime>
+    </File>
+    <File Include="Resource/XML/CustomerSearch.xml">
+      <publishTime>02/05/2020 23:20:52</publishTime>
+    </File>
+    <File Include="Resource/XML/DestinoGT.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/DestinoHN.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/DestinoMX.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/DestinoSV.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Envio/ConsultaCargos.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Envio/EnvioEnEspera.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Jumio/ActualizaEstadoJumio.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Jumio/AgregarDatosAdicionales.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Jumio/CallBackAceptar.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/OcupacionGT.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/OcupacionHN.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/OcupacionMX.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/OcupacionSV.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/OrigenFondoGT.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/OrigenFondoHN.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/OrigenFondoMX.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/OrigenFondoSV.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Pago/BuscarPago.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Pago/PagoEnEspera.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/PruebasEstados.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/pruebasLocalidad.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/pruebasNacionalidad.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/pruebasPais.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/pruebasTipoDocumento.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/pruebasTransaccionesEnEspera.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/RecibirDinero/RecibirDineroSearch.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/RecibirDinero/RecibirDineroValidar.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Registro.xml">
+      <publishTime>02/06/2020 11:09:41</publishTime>
+    </File>
+    <File Include="Resource/XML/TipoRelacionGT.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/TipoRelacionHN.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/TipoRelacionMX.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/TipoRelacionSV.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Transaccion/BuscarTransaccion.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Transaccion/BuscarTransaccionAgente.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Transaccion/ConfirmarTransaccion.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Transaccion/DetalleTransaccion.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Transaccion/HistorialTransacciones.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Transaccion/pruebas.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Usuario/BuscarDispositivo.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Usuario/Contactos.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Usuario/CustomerSearch.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Usuario/EnviarTokenCliente.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Usuario/EnvioEnEspera.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Usuario/GuardaBuscaFCC.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Usuario/GuardarBuscarJumio.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Usuario/LoginCliente.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Usuario/Registrado.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Usuario/Registro.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Usuario/RegistroTelefonoCliente.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Usuario/RevertPassword.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Usuario/Roles.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Usuario/UpdatePassword.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Usuario/UsuarioCompleto.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Usuario/UsuarioFichaFCC.xml">
+      <publishTime>04/05/2021 15:57:55</publishTime>
+    </File>
+    <File Include="Resource/XML/Usuario/ValidarTokenCliente.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Usuario/ValidarYConfirmarToken.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Usuario/Valido.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Utilidades/AgenciaCercana.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Utilidades/CatalogoEstado.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Utilidades/CatalogoLocalidad.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Utilidades/CatalogoLocalidadCiudad.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Utilidades/CatalogoPais.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Utilidades/CatalogosNacionalidad.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Utilidades/CatalogosTipoDocumento.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Resource/XML/Utilidades/MetodoGenerico.xml">
+      <publishTime>03/24/2021 10:09:25</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/07/2021 20:30:07</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

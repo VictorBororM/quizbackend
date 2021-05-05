@@ -1,0 +1,49 @@
+C:\Simple y Rápido Remesadores\Api\MOD\MOD.RenoExpress\bin\Debug\MOD.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\MOD\MOD.RenoExpress\bin\Debug\MOD.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\MOD\MOD.RenoExpress\obj\Debug\MOD.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\MOD\MOD.RenoExpress\obj\Debug\MOD.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\MOD\bin\Debug\MOD.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\MOD\bin\Debug\MOD.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\MOD\obj\Debug\MOD.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\MOD\obj\Debug\MOD.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\MOD\bin\Debug\MOD.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\Api\MOD\bin\Debug\Newtonsoft.Json.dll
+C:\Simple y Rápido Remesadores\Api\MOD\bin\Debug\Newtonsoft.Json.xml
+C:\Simple y Rápido Remesadores\Api\MOD\obj\Debug\MOD.RenoExpress.csproj.CopyComplete
+C:\Simple y Rápido Remesadores\Api\MOD\obj\Debug\MOD.RenoExpress.csprojAssemblyReference.cache
+C:\Simple y Rápido Remesadores\Api\Base\MOD\bin\Debug\MOD.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\Api\Base\MOD\bin\Debug\MOD.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\Base\MOD\bin\Debug\MOD.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\Base\MOD\bin\Debug\Newtonsoft.Json.dll
+C:\Simple y Rápido Remesadores\Api\Base\MOD\bin\Debug\Newtonsoft.Json.xml
+C:\Simple y Rápido Remesadores\Api\Base\MOD\obj\Debug\MOD.RenoExpress.csproj.CopyComplete
+C:\Simple y Rápido Remesadores\Api\Base\MOD\obj\Debug\MOD.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\Base\MOD\obj\Debug\MOD.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\Base\MOD\obj\Debug\MOD.RenoExpress.csprojAssemblyReference.cache
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\MOD\bin\Debug\MOD.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\MOD\bin\Debug\MOD.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\MOD\bin\Debug\MOD.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\MOD\bin\Debug\Newtonsoft.Json.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\MOD\bin\Debug\Newtonsoft.Json.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\MOD\obj\Debug\MOD.RenoExpress.csprojAssemblyReference.cache
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\MOD\obj\Debug\MOD.RenoExpress.csproj.CopyComplete
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\MOD\obj\Debug\MOD.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\MOD\obj\Debug\MOD.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\MOD\bin\Debug\MOD.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\MOD\bin\Debug\MOD.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\MOD\bin\Debug\MOD.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\MOD\bin\Debug\Newtonsoft.Json.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\MOD\bin\Debug\Newtonsoft.Json.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\MOD\obj\Debug\MOD.RenoExpress.csprojAssemblyReference.cache
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\MOD\obj\Debug\MOD.RenoExpress.csproj.CopyComplete
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\MOD\obj\Debug\MOD.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\MOD\obj\Debug\MOD.RenoExpress.pdb
+C:\Formulario FEIC\02 API SyR\MOD\bin\Debug\MOD.RenoExpress.dll.config
+C:\Formulario FEIC\02 API SyR\MOD\bin\Debug\MOD.RenoExpress.dll
+C:\Formulario FEIC\02 API SyR\MOD\bin\Debug\MOD.RenoExpress.pdb
+C:\Formulario FEIC\02 API SyR\MOD\bin\Debug\Newtonsoft.Json.dll
+C:\Formulario FEIC\02 API SyR\MOD\bin\Debug\Newtonsoft.Json.xml
+C:\Formulario FEIC\02 API SyR\MOD\obj\Debug\MOD.RenoExpress.csproj.CopyComplete
+C:\Formulario FEIC\02 API SyR\MOD\obj\Debug\MOD.RenoExpress.dll
+C:\Formulario FEIC\02 API SyR\MOD\obj\Debug\MOD.RenoExpress.pdb
+C:\Formulario FEIC\02 API SyR\MOD\obj\Debug\MOD.RenoExpress.csproj.CoreCompileInputs.cache

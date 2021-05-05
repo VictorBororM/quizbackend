@@ -1,0 +1,143 @@
+C:\Simple y Rápido Remesadores\Api\BBL\bin\Debug\BLL.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\BBL\bin\Debug\BLL.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\BBL\bin\Debug\DAL.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\BBL\bin\Debug\MOD.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\BBL\bin\Debug\MODDB.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\BBL\bin\Debug\Newtonsoft.Json.dll
+C:\Simple y Rápido Remesadores\Api\BBL\bin\Debug\MySql.Data.dll
+C:\Simple y Rápido Remesadores\Api\BBL\bin\Debug\DAL.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\BBL\bin\Debug\MODDB.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\BBL\bin\Debug\MODDB.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\Api\BBL\bin\Debug\MOD.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\BBL\bin\Debug\Newtonsoft.Json.xml
+C:\Simple y Rápido Remesadores\Api\BBL\obj\Debug\BLL.RenoExpress.csprojAssemblyReference.cache
+C:\Simple y Rápido Remesadores\Api\BBL\obj\Debug\BLL.RenoExpress.csproj.CopyComplete
+C:\Simple y Rápido Remesadores\Api\BBL\obj\Debug\BLL.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\BBL\obj\Debug\BLL.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\BBL\bin\Debug\DAL.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\Api\BBL\bin\Debug\MOD.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\BLL.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\BLL.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\DAL.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\MOD.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\MODDB.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\Newtonsoft.Json.dll
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\MySql.Data.dll
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\DAL.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\DAL.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\MODDB.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\MODDB.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\MOD.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\MOD.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\Newtonsoft.Json.xml
+C:\Simple y Rápido Remesadores\Api\Base\BBL\obj\Debug\BLL.RenoExpress.csprojAssemblyReference.cache
+C:\Simple y Rápido Remesadores\Api\Base\BBL\obj\Debug\BLL.RenoExpress.csproj.CopyComplete
+C:\Simple y Rápido Remesadores\Api\Base\BBL\obj\Debug\BLL.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\Base\BBL\obj\Debug\BLL.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\System.Web.Helpers.dll
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\System.Web.WebPages.dll
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\System.Web.Razor.dll
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\System.Web.Helpers.xml
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\System.Web.WebPages.xml
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\System.Web.Razor.xml
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\es\System.Web.Helpers.resources.dll
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Simple y Rápido Remesadores\Api\Base\BBL\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\BLL.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\BLL.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\DAL.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\MOD.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\MODDB.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\Newtonsoft.Json.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\System.Web.Helpers.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\MySql.Data.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\System.Web.WebPages.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\System.Web.Razor.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\DAL.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\DAL.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\MODDB.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\MODDB.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\MOD.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\MOD.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\Newtonsoft.Json.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\System.Web.Helpers.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\System.Web.WebPages.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\System.Web.Razor.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\es\System.Web.Helpers.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\obj\Debug\BLL.RenoExpress.csprojAssemblyReference.cache
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\obj\Debug\BLL.RenoExpress.csproj.CopyComplete
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\obj\Debug\BLL.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\BBL\obj\Debug\BLL.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\BLL.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\BLL.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\DAL.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\MOD.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\MODDB.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\Newtonsoft.Json.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\System.Web.Helpers.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\MySql.Data.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\System.Web.WebPages.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\System.Web.Razor.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\DAL.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\DAL.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\MODDB.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\MODDB.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\MOD.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\MOD.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\Newtonsoft.Json.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\System.Web.Helpers.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\System.Web.WebPages.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\System.Web.Razor.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\es\System.Web.Helpers.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\obj\Debug\BLL.RenoExpress.csprojAssemblyReference.cache
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\obj\Debug\BLL.RenoExpress.csproj.CopyComplete
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\obj\Debug\BLL.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\BBL\obj\Debug\BLL.RenoExpress.pdb
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\BLL.RenoExpress.dll
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\BLL.RenoExpress.pdb
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\DAL.RenoExpress.dll
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\MOD.RenoExpress.dll
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\MODDB.RenoExpress.dll
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\Newtonsoft.Json.dll
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\System.Web.Helpers.dll
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\MySql.Data.dll
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\System.Web.WebPages.dll
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\System.Web.Razor.dll
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\DAL.RenoExpress.pdb
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\DAL.RenoExpress.dll.config
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\MODDB.RenoExpress.pdb
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\MODDB.RenoExpress.dll.config
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\MOD.RenoExpress.pdb
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\MOD.RenoExpress.dll.config
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\Newtonsoft.Json.xml
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\System.Web.Helpers.xml
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\System.Web.WebPages.xml
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\System.Web.Razor.xml
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\es\System.Web.Helpers.resources.dll
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Formulario FEIC\02 API SyR\BBL\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Formulario FEIC\02 API SyR\BBL\obj\Debug\BLL.RenoExpress.csprojAssemblyReference.cache
+C:\Formulario FEIC\02 API SyR\BBL\obj\Debug\BLL.RenoExpress.csproj.CopyComplete
+C:\Formulario FEIC\02 API SyR\BBL\obj\Debug\BLL.RenoExpress.dll
+C:\Formulario FEIC\02 API SyR\BBL\obj\Debug\BLL.RenoExpress.pdb
+C:\Formulario FEIC\02 API SyR\BBL\obj\Debug\BLL.RenoExpress.csproj.CoreCompileInputs.cache

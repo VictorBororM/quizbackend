@@ -1,0 +1,527 @@
+C:\Simple y Rápido Remesadores\Api\API\bin\ApplicationInsights.config
+C:\Simple y Rápido Remesadores\Api\API\bin\Antlr3.Runtime.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\BLL.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.AI.Web.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.AI.WindowsServer.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.ApplicationInsights.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.Owin.Cors.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.Owin.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.Owin.Security.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\MOD.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\MODDB.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\Newtonsoft.Json.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\Owin.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Net.Http.Formatting.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.Cors.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.Helpers.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.Http.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.Http.Owin.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.Http.WebHost.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.Mvc.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.Optimization.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.Razor.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.WebPages.Deployment.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.WebPages.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.WebPages.Razor.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\WebGrease.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\DAL.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\MySql.Data.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\BLL.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\API\bin\MODDB.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\API\bin\MODDB.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\Api\API\bin\MOD.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.Owin.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.Owin.Cors.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.Owin.Security.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\Newtonsoft.Json.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Net.Http.Formatting.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.Http.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.Http.Owin.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.Helpers.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.Http.WebHost.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.Mvc.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.Optimization.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.Razor.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.WebPages.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.WebPages.Deployment.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\System.Web.WebPages.Razor.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\Antlr3.Runtime.pdb
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.ApplicationInsights.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.AI.WindowsServer.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\Microsoft.AI.Web.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\DAL.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\API\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\es\System.Web.Http.resources.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\es\System.Web.Http.Owin.resources.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\es\System.Web.Helpers.resources.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\es\System.Web.Mvc.resources.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\es\System.Web.Optimization.resources.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\es\System.Web.Razor.resources.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\es\System.Web.WebPages.resources.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Simple y Rápido Remesadores\Api\API\obj\Debug\API.RenoExpress.csprojAssemblyReference.cache
+C:\Simple y Rápido Remesadores\Api\API\obj\Debug\API.RenoExpress.csproj.CopyComplete
+C:\Simple y Rápido Remesadores\Api\API\bin\MOD.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\Api\API\bin\DAL.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\Api\API\bin\Resource\XML\CustomerSearch.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\Resource\XML\Registro.xml
+C:\Simple y Rápido Remesadores\Api\API\bin\API.RenoExpress.Controllers.dll.config
+C:\Simple y Rápido Remesadores\Api\API\bin\API.RenoExpress.Controllers.dll
+C:\Simple y Rápido Remesadores\Api\API\bin\API.RenoExpress.Controllers.pdb
+C:\Simple y Rápido Remesadores\Api\API\obj\Debug\API.RenoExpress.Controllers.dll
+C:\Simple y Rápido Remesadores\Api\API\obj\Debug\API.RenoExpress.Controllers.pdb
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\ApplicationInsights.config
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\API.RenoExpress.Controllers.dll.config
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\API.RenoExpress.Controllers.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\API.RenoExpress.Controllers.pdb
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Antlr3.Runtime.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\BLL.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.AI.Web.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.AI.WindowsServer.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.ApplicationInsights.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.Owin.Cors.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.Owin.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.Owin.Security.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\MOD.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\MODDB.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Newtonsoft.Json.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Owin.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Net.Http.Formatting.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.Cors.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.Helpers.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.Http.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.Http.Owin.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.Http.WebHost.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.Mvc.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.Optimization.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.Razor.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.WebPages.Deployment.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.WebPages.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.WebPages.Razor.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\WebGrease.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\DAL.RenoExpress.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\MySql.Data.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\BLL.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\MODDB.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\MODDB.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\MOD.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\MOD.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.Owin.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.Owin.Cors.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.Owin.Security.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Newtonsoft.Json.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Net.Http.Formatting.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.Http.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.Http.Owin.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.Helpers.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.Http.WebHost.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.Mvc.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.Optimization.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.Razor.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.WebPages.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.WebPages.Deployment.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.Web.WebPages.Razor.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Antlr3.Runtime.pdb
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.ApplicationInsights.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.AI.WindowsServer.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Microsoft.AI.Web.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\DAL.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\DAL.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\es\System.Web.Http.resources.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\es\System.Web.Http.Owin.resources.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\es\System.Web.Helpers.resources.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\es\System.Web.Mvc.resources.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\es\System.Web.Optimization.resources.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\es\System.Web.Razor.resources.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\es\System.Web.WebPages.resources.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\obj\Debug\API.RenoExpress.csprojAssemblyReference.cache
+C:\Simple y Rápido Remesadores\Api\Base\API\obj\Debug\API.RenoExpress.csproj.CopyComplete
+C:\Simple y Rápido Remesadores\Api\Base\API\obj\Debug\API.RenoExpress.Controllers.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\obj\Debug\API.RenoExpress.Controllers.pdb
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.ValueTuple.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.ValueTuple.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.IO.FileSystem.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\System.IO.FileSystem.Primitives.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Bond.Attributes.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Bond.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Bond.IO.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Bond.Reflection.dll
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Bond.pdb
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Bond.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Bond.Attributes.pdb
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Bond.Attributes.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Bond.IO.pdb
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Bond.IO.xml
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Bond.Reflection.pdb
+C:\Simple y Rápido Remesadores\Api\Base\API\bin\Bond.Reflection.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\ApplicationInsights.config
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\API.RenoExpress.Controllers.dll.config
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\API.RenoExpress.Controllers.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\API.RenoExpress.Controllers.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Antlr3.Runtime.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\BLL.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Bond.Attributes.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Bond.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Bond.IO.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Bond.Reflection.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.AI.Web.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.AI.WindowsServer.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.ApplicationInsights.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.Owin.Cors.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.Owin.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.Owin.Security.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\MOD.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\MODDB.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Newtonsoft.Json.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Owin.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.IO.FileSystem.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.IO.FileSystem.Primitives.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Net.Http.Formatting.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.ValueTuple.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.Cors.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.Helpers.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.Http.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.Http.Owin.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.Http.WebHost.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.Mvc.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.Optimization.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.Razor.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.WebPages.Deployment.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.WebPages.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.WebPages.Razor.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\WebGrease.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\DAL.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\MySql.Data.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\BLL.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\MODDB.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\MODDB.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\MOD.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\MOD.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Bond.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Bond.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Bond.Attributes.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Bond.Attributes.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Bond.IO.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Bond.IO.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Bond.Reflection.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Bond.Reflection.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.Owin.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.Owin.Cors.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.Owin.Security.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Newtonsoft.Json.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Net.Http.Formatting.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.ValueTuple.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.Http.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.Http.Owin.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.Helpers.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.Http.WebHost.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.Mvc.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.Optimization.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.Razor.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.WebPages.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.WebPages.Deployment.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\System.Web.WebPages.Razor.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Antlr3.Runtime.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.ApplicationInsights.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.AI.WindowsServer.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\Microsoft.AI.Web.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\DAL.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\DAL.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\es\System.Web.Http.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\es\System.Web.Http.Owin.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\es\System.Web.Helpers.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\es\System.Web.Mvc.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\es\System.Web.Optimization.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\es\System.Web.Razor.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\es\System.Web.WebPages.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\obj\Debug\API.RenoExpress.csprojAssemblyReference.cache
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\obj\Debug\API.RenoExpress.csproj.CopyComplete
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\obj\Debug\API.RenoExpress.Controllers.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\01 API SyR sprint 4\API\obj\Debug\API.RenoExpress.Controllers.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\ApplicationInsights.config
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\API.RenoExpress.Controllers.dll.config
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\API.RenoExpress.Controllers.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\API.RenoExpress.Controllers.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Antlr3.Runtime.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\BLL.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Bond.Attributes.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Bond.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Bond.IO.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Bond.Reflection.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.AI.Web.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.AI.WindowsServer.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.ApplicationInsights.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.Owin.Cors.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.Owin.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.Owin.Security.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\MOD.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\MODDB.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Newtonsoft.Json.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Owin.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.IO.FileSystem.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.IO.FileSystem.Primitives.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Net.Http.Formatting.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.ValueTuple.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.Cors.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.Helpers.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.Http.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.Http.Owin.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.Http.WebHost.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.Mvc.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.Optimization.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.Razor.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.WebPages.Deployment.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.WebPages.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.WebPages.Razor.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\WebGrease.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\DAL.RenoExpress.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\MySql.Data.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\BLL.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\MODDB.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\MODDB.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\MOD.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\MOD.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Bond.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Bond.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Bond.Attributes.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Bond.Attributes.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Bond.IO.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Bond.IO.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Bond.Reflection.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Bond.Reflection.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.Owin.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.Owin.Cors.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.Owin.Security.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Newtonsoft.Json.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Net.Http.Formatting.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.ValueTuple.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.Http.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.Http.Owin.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.Helpers.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.Http.WebHost.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.Mvc.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.Optimization.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.Razor.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.WebPages.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.WebPages.Deployment.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\System.Web.WebPages.Razor.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Antlr3.Runtime.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.ApplicationInsights.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.AI.WindowsServer.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\Microsoft.AI.Web.xml
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\DAL.RenoExpress.pdb
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\DAL.RenoExpress.dll.config
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\es\System.Web.Http.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\es\System.Web.Http.Owin.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\es\System.Web.Helpers.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\es\System.Web.Mvc.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\es\System.Web.Optimization.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\es\System.Web.Razor.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\es\System.Web.WebPages.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\obj\Debug\API.RenoExpress.csprojAssemblyReference.cache
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\obj\Debug\API.RenoExpress.csproj.CopyComplete
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\obj\Debug\API.RenoExpress.Controllers.dll
+C:\Simple y Rápido Remesadores\02 Repositorio COEN\00 TRUNK API SYR\API\obj\Debug\API.RenoExpress.Controllers.pdb
+C:\Formulario FEIC\02 API SyR\API\bin\ApplicationInsights.config
+C:\Formulario FEIC\02 API SyR\API\bin\API.RenoExpress.Controllers.dll.config
+C:\Formulario FEIC\02 API SyR\API\bin\API.RenoExpress.Controllers.dll
+C:\Formulario FEIC\02 API SyR\API\bin\API.RenoExpress.Controllers.pdb
+C:\Formulario FEIC\02 API SyR\API\bin\Antlr3.Runtime.dll
+C:\Formulario FEIC\02 API SyR\API\bin\BLL.RenoExpress.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Bond.Attributes.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Bond.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Bond.IO.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Bond.Reflection.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.AI.Web.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.AI.WindowsServer.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.ApplicationInsights.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.Owin.Cors.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.Owin.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.Owin.Security.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Formulario FEIC\02 API SyR\API\bin\MOD.RenoExpress.dll
+C:\Formulario FEIC\02 API SyR\API\bin\MODDB.RenoExpress.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Newtonsoft.Json.dll
+C:\Formulario FEIC\02 API SyR\API\bin\Owin.dll
+C:\Formulario FEIC\02 API SyR\API\bin\System.IO.FileSystem.dll
+C:\Formulario FEIC\02 API SyR\API\bin\System.IO.FileSystem.Primitives.dll
+C:\Formulario FEIC\02 API SyR\API\bin\System.Net.Http.Formatting.dll
+C:\Formulario FEIC\02 API SyR\API\bin\System.ValueTuple.dll
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.Cors.dll
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.Helpers.dll
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.Http.dll
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.Http.Owin.dll
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.Http.WebHost.dll
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.Mvc.dll
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.Optimization.dll
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.Razor.dll
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.WebPages.Deployment.dll
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.WebPages.dll
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.WebPages.Razor.dll
+C:\Formulario FEIC\02 API SyR\API\bin\WebGrease.dll
+C:\Formulario FEIC\02 API SyR\API\bin\DAL.RenoExpress.dll
+C:\Formulario FEIC\02 API SyR\API\bin\MySql.Data.dll
+C:\Formulario FEIC\02 API SyR\API\bin\BLL.RenoExpress.pdb
+C:\Formulario FEIC\02 API SyR\API\bin\MODDB.RenoExpress.pdb
+C:\Formulario FEIC\02 API SyR\API\bin\MODDB.RenoExpress.dll.config
+C:\Formulario FEIC\02 API SyR\API\bin\MOD.RenoExpress.pdb
+C:\Formulario FEIC\02 API SyR\API\bin\MOD.RenoExpress.dll.config
+C:\Formulario FEIC\02 API SyR\API\bin\Bond.pdb
+C:\Formulario FEIC\02 API SyR\API\bin\Bond.xml
+C:\Formulario FEIC\02 API SyR\API\bin\Bond.Attributes.pdb
+C:\Formulario FEIC\02 API SyR\API\bin\Bond.Attributes.xml
+C:\Formulario FEIC\02 API SyR\API\bin\Bond.IO.pdb
+C:\Formulario FEIC\02 API SyR\API\bin\Bond.IO.xml
+C:\Formulario FEIC\02 API SyR\API\bin\Bond.Reflection.pdb
+C:\Formulario FEIC\02 API SyR\API\bin\Bond.Reflection.xml
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.Owin.xml
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.Owin.Cors.xml
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.Owin.Security.xml
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Formulario FEIC\02 API SyR\API\bin\Newtonsoft.Json.xml
+C:\Formulario FEIC\02 API SyR\API\bin\System.Net.Http.Formatting.xml
+C:\Formulario FEIC\02 API SyR\API\bin\System.ValueTuple.xml
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.Http.xml
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.Http.Owin.xml
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.Helpers.xml
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.Http.WebHost.xml
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.Mvc.xml
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.Optimization.xml
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.Razor.xml
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.WebPages.xml
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.WebPages.Deployment.xml
+C:\Formulario FEIC\02 API SyR\API\bin\System.Web.WebPages.Razor.xml
+C:\Formulario FEIC\02 API SyR\API\bin\Antlr3.Runtime.pdb
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.ApplicationInsights.xml
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.AI.WindowsServer.xml
+C:\Formulario FEIC\02 API SyR\API\bin\Microsoft.AI.Web.xml
+C:\Formulario FEIC\02 API SyR\API\bin\DAL.RenoExpress.pdb
+C:\Formulario FEIC\02 API SyR\API\bin\DAL.RenoExpress.dll.config
+C:\Formulario FEIC\02 API SyR\API\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Formulario FEIC\02 API SyR\API\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Formulario FEIC\02 API SyR\API\bin\es\System.Web.Http.resources.dll
+C:\Formulario FEIC\02 API SyR\API\bin\es\System.Web.Http.Owin.resources.dll
+C:\Formulario FEIC\02 API SyR\API\bin\es\System.Web.Helpers.resources.dll
+C:\Formulario FEIC\02 API SyR\API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Formulario FEIC\02 API SyR\API\bin\es\System.Web.Mvc.resources.dll
+C:\Formulario FEIC\02 API SyR\API\bin\es\System.Web.Optimization.resources.dll
+C:\Formulario FEIC\02 API SyR\API\bin\es\System.Web.Razor.resources.dll
+C:\Formulario FEIC\02 API SyR\API\bin\es\System.Web.WebPages.resources.dll
+C:\Formulario FEIC\02 API SyR\API\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Formulario FEIC\02 API SyR\API\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Formulario FEIC\02 API SyR\API\obj\Debug\API.RenoExpress.csprojAssemblyReference.cache
+C:\Formulario FEIC\02 API SyR\API\obj\Debug\API.RenoExpress.csproj.CopyComplete
+C:\Formulario FEIC\02 API SyR\API\obj\Debug\API.RenoExpress.Controllers.dll
+C:\Formulario FEIC\02 API SyR\API\obj\Debug\API.RenoExpress.Controllers.pdb
+C:\Formulario FEIC\02 API SyR\API\obj\Debug\API.RenoExpress.csproj.CoreCompileInputs.cache

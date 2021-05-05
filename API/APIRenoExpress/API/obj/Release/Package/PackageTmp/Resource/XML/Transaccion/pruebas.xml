@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+    <soapenv:Header />
+    <soapenv:Body>
+        <agent-transaction-history-reply>
+            <transactions>
+                <transaction>
+                    <transaction_type>ENVIO</transaction_type>
+                    <currency>MXN</currency>
+                    <amount>251.0000</amount>
+                    <transaction_date>04032020</transaction_date>
+                    <pin>E150552413</pin>
+                    <mtcn>1000000000</mtcn>
+                    <sender>VICTOR BOROR</sender>
+                    <receiver>BRANDON CAHUEC</receiver>
+                    <country_origin>MEXICO</country_origin>
+                    <destination_country>GUATEMALA</destination_country>         
+                    <product_name>WESTERN UNION</product_name>
+                </transaction>
+                <transaction>
+                    <transaction_type>ENVIO</transaction_type>
+                    <currency>MXN</currency>
+                    <amount>251.0000</amount>
+                    <transaction_date>04032020</transaction_date>
+                    <pin>E150552413</pin>
+                    <mtcn>2000000000</mtcn>
+                    <sender>BRANDON CAHUEC</sender>
+                    <receiver>VICTOR BOROR</receiver>
+                    <country_origin>MEXICO</country_origin>
+                    <destination_country>GUATEMALA</destination_country>         
+                    <product_name>WESTERN UNION</product_name>
+                </transaction>
+            </transactions>
+            <result>
+                <transfer_response_code>000</transfer_response_code>
+                <transfer_response_text>Operación ejecutada con éxito.</transfer_response_text>
+                <message />
+            </result>
+        </agent-transaction-history-reply>
+    </soapenv:Body>
+</soapenv:Envelope>

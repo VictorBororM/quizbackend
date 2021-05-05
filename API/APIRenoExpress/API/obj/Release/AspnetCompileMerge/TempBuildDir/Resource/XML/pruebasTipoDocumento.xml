@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soapenv:Envelope
+	xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" >
+	<soapenv:Header/>
+	<soapenv:Body>
+		<das-request>
+			<country>GT</country>
+			<operation_product>WU</operation_product>
+			<product>ALL</product>
+			<countries>
+				<type>countrys</type>
+			</countries>
+			<states>
+				<type>states</type>
+				<tipoDocumento>{ "tipoDocumento" : [  { "codigo": "-", "nombre": "NO DEFINIDO"  },  { "codigo": "A", "nombre": "PASAPORTE"  },  { "codigo": "C", "nombre": "LICENCIA DE CONDUCIR"  },  { "codigo": "F", "nombre": "INSTITUTO FEDERAL ELECTORAL"  },  { "codigo": "G", "nombre": "MATRICULA CONSULAR CARD"  },  { "codigo": "H", "nombre": "CEDULA PROFESIONAL"  },  { "codigo": "I", "nombre": "CARTILLA MILITAR"  },  { "codigo": "J", "nombre": "TARJETA ÚNICA IDENTIDAD MILITAR"  },  { "codigo": "K", "nombre": "INAPAM"  },  { "codigo": "L", "nombre": "IMSS CREDENCIAL"  },  { "codigo": "M", "nombre": "FM2 SRE/INMI"  },  { "codigo": "N", "nombre": "FM3 SRE/INMI"  },  { "codigo": "B", "nombre": "RFC"  },  { "codigo": "4", "nombre": "CURP"  },  { "codigo": "O", "nombre": "IDENTIFICACIÓN EXTRANJERA"  },  { "codigo": "X", "nombre": "CONSTANCIA DE RECEPCION DE MEXICANOS REPATRIADOS"  },  { "codigo": "Z", "nombre": "TARJETA PASAPORTE"  } ] }</tipoDocumento>
+			</states>
+			<type>cities</type>
+			<node>
+				<patherid></patherid>
+				<pathervalue></pathervalue>
+			</node>
+		</das-request>
+	</soapenv:Body>
+</soapenv:Envelope>

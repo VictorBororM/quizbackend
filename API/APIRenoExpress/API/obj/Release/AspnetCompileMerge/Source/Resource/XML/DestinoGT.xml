@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soapenv:Envelope
+	xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" >
+	<soapenv:Header/>
+	<soapenv:Body>
+		<das-request>
+			<country>GT</country>
+			<operation_product>WU</operation_product>
+			<product>ALL</product>
+			<countries>
+				<type>countrys</type>
+			</countries>
+			<states>
+				<type>states</type>
+				<destino_fondo>{ 	"destinos": [	{	"codigo": 16,	"nombre": "AHORRO PERSONAL"	},	{	"codigo": 11,	"nombre": "AYUDA A MISIONEROS"	},	{	"codigo": 19,	"nombre": "AYUDA ECONOMICA"	},	{	"codigo": 3,	"nombre": "COMPRA/ VENTA DE MERCADERIA"	},	{	"codigo": 4,	"nombre": "COMPRA/ VENTA DE PROPIEDADES Y BIENES"	},	{	"codigo": 14,	"nombre": "CONSTRUCCION O REMODELACION"	},	{	"codigo": 10,	"nombre": "DONACIONES"	},	{	"codigo": 2,	"nombre": "GASTOS MEDICOS"	},	{	"codigo": 18,	"nombre": "INVERSIONES"	},	{	"codigo": 15,	"nombre": "MANTENIMIENTO DE BIENES Y PROPIEDADES"	},	{	"codigo": 9,	"nombre": "PAGO DE ESTUDIOS"	},	{	"codigo": 13,	"nombre": "PAGO DE HONORARIOS"	},	{	"codigo": 12,	"nombre": "PAGO DE TARJETAS DE CREDITO"	},	{	"codigo": 8,	"nombre": "PENSION"	},	{	"codigo": 5,	"nombre": "PRESTAMOS"	},	{	"codigo": 6,	"nombre": "SALARIOS"	},	{	"codigo": 1,	"nombre": "SOPORTE FAMILIAR"	},	{	"codigo": 17,	"nombre": "TURISMO Y RECREACION"	},	{	"codigo": 7,	"nombre": "VIATICOS"	} 	] }</destino_fondo>
+			</states>
+			<type>cities</type>
+			<node>
+				<patherid></patherid>
+				<pathervalue></pathervalue>
+			</node>
+		</das-request>
+	</soapenv:Body>
+</soapenv:Envelope>

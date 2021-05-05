@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soapenv:Envelope
+	xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" >
+	<soapenv:Header/>
+	<soapenv:Body>
+		<das-request>
+			<country>GT</country>
+			<operation_product>WU</operation_product>
+			<product>ALL</product>
+			<countries>
+				<type>countrys</type>
+			</countries>
+			<states>
+				<type>states</type>
+				<tipo_relacion>{ 	"tipo_relacion": [	{	"codigo": 13,	"nombre": "ABUELO(A)"	},	{	"codigo": 20,	"nombre": "AHIJADO(A)"	},	{	"codigo": 19,	"nombre": "AMISTAD"	},	{	"codigo": 23,	"nombre": "COMADRE"	},	{	"codigo": 24,	"nombre": "COMPADRE"	},	{	"codigo": 7,	"nombre": "COMPAÑERO DE TRABAJO"	},	{	"codigo": 12,	"nombre": "CUÑADO(A)"	},	{	"codigo": 5,	"nombre": "ESPOSO(A)"	},	{	"codigo": 16,	"nombre": "EX ESPOSO(A)"	},	{	"codigo": 10,	"nombre": "HERMANASTRO(A)"	},	{	"codigo": 2,	"nombre": "HERMANO(A)"	},	{	"codigo": 25,	"nombre": "HIJASTRO(A)"	},	{	"codigo": 1,	"nombre": "HIJO(A)"	},	{	"codigo": 17,	"nombre": "JEFE(A)"	},	{	"codigo": 9,	"nombre": "MADRASTRA"	},	{	"codigo": 26,	"nombre": "NIETO(A)"	},	{	"codigo": 22,	"nombre": "NOVIO(A)"	},	{	"codigo": 28,	"nombre": "OTROS NO FAMILIAR"	},	{	"codigo": 8,	"nombre": "PADRASTRO"	},	{	"codigo": 27,	"nombre": "PADRE"	},	{	"codigo": 3,	"nombre": "PADRES"	},	{	"codigo": 15,	"nombre": "PADRINO(A)"	},	{	"codigo": 21,	"nombre": "PRIMO(A)"	},	{	"codigo": 11,	"nombre": "SOBRINO(A)"	},	{	"codigo": 18,	"nombre": "SOCIO(A)"	},	{	"codigo": 6,	"nombre": "SUBALTERNO(A)"	},	{	"codigo": 14,	"nombre": "SUEGRO(A)"	},	{	"codigo": 4,	"nombre": "TIO(A)"	} 	] }</tipo_relacion>
+			</states>
+			<type>cities</type>
+			<node>
+				<patherid></patherid>
+				<pathervalue></pathervalue>
+			</node>
+		</das-request>
+	</soapenv:Body>
+</soapenv:Envelope>

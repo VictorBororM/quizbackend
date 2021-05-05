@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" >
+  <soapenv:Header/>
+  <soapenv:Body>
+    <send-token-client-request>
+      <customer_id>@customer_id</customer_id>
+      <country>@country</country>
+      <correo>@correo</correo>
+      <telefono>@telefono</telefono>
+      <valor_correo>@valor_correo</valor_correo>
+      <valor_telefono>@valor_telefono</valor_telefono>
+    </send-token-client-request>
+  </soapenv:Body>
+</soapenv:Envelope>
